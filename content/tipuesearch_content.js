@@ -1,1 +1,1 @@
-var tipuesearch = {"pages": [{'title': 'First', 'text': '我是陳仲澤 \n AKA.全村的希望 \n AKA.蒜頭王子 \n AKA.瘋之嬌子 \n AKA.阿伯的初戀情人 \n AKA.無法下船的暈船仔 \n AKA.白髮騷年 \n', 'tags': '', 'url': 'First.html'}]};
+var tipuesearch = {"pages": [{'title': 'First', 'text': '', 'tags': '', 'url': 'First.html'}, {'title': '我是陳仲澤', 'text': 'AKA.全村的希望 \n AKA.蒜頭王子 \n AKA.瘋之嬌子 \n AKA.阿伯的初戀情人 \n AKA.無法下船的暈船仔 \n AKA.白髮騷年 \n', 'tags': '', 'url': '我是陳仲澤.html'}]};
